@@ -1,0 +1,3 @@
+Largest number = 50
+Smallest number = 10
+Average = 30
